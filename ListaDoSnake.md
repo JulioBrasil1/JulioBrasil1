@@ -2,7 +2,5 @@
 (Tema: Jogo Snake)
 - Júlio Pereira Brasil
 - Vinícius Lima
-- James
--
--
--
+- James Johnshon
+- Manoel Pedro
