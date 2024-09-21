@@ -3,4 +3,4 @@
 - Júlio Pereira Brasil
 - Vinícius Lima
 - James Johnshon
-- Manoel Pedro
+- Manoel Pedro Alves Neto
