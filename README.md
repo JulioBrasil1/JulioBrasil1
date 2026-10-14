@@ -1,4 +1,4 @@
-# 📊 Minhas Estatísticas do GitHub
+Minhas Estatísticas do GitHub
 
 <!-- Cartão Principal de Estatísticas -->
 
