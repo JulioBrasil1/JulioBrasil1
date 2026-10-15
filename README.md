@@ -1,5 +1,5 @@
 
-Este é meu perfill no GitHub, onde está meus repositórios de trabalhos da faculdade e empresas e projetos pessoais.
+Este é meu perfil no GitHub, onde está meus repositórios de trabalhos realizados na faculdade e em empresas, assim como projetos pessoais.
 
 Minhas Estatísticas do GitHub:
 
