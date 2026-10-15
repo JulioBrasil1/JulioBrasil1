@@ -1,7 +1,7 @@
-Minhas Estatísticas do GitHub
 
 Este é meu perfill no GitHub, onde está meus repositórios de trabalhos da faculdade e empresas e projetos pessoais.
 
+Minhas Estatísticas do GitHub
 <!-- Cartão Principal de Estatísticas -->
 
 <p align="center">
